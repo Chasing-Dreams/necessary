@@ -1,0 +1,159 @@
+[
+    {
+        "productId": "001",
+        "title": "咖啡",
+        "listArr":{
+            "bigImg":"https://bfs.biyao.com/group1/M00/CF/1A/rBACW1zRbzmAeSuiAAD0W8B6bHc940.jpg",
+            "type":[
+                {
+                    "name":"咖啡",
+                    "list":[
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/5C/5B/rBACW1urbGCAXLFPAAAXC8eXLWU812.jpg",
+                            "description": "咖啡粉"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/A6/E0/rBACVFyHhLeAPxBEAAAWZJ5-sTo971.jpg",
+                            "description": "咖啡豆"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/C6/FF/rBACYVzGpvuAIZ8pAAAcD7nHWq0875.jpg",
+                            "description": "手冲咖啡"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "002",
+        "title": "正餐",
+        "listArr":{
+            "bigImg":"https://bfs.biyao.com/group1/M00/A7/D9/rBACVFyJ8T6ASK0rAAGTpHFwLUo817.jpg",
+            "type":[
+                {
+                    "name":"正餐",
+                    "list": [
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/C4/8C/rBACVFzFcrCAP_hVAABAo7rQxfs119.jpg",
+                            "description": "川湘菜"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/BF/4A/rBACW1y2_5aAPA87AAAv-nnzTsM773.jpg",
+                            "description": "江浙菜"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/AA/21/rBACYVyLD4-AC5lxAAAmXwsmFog177.jpg",
+                            "description": "中西融合菜"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/B6/77/rBACVFyq_xqAZ90ZAABCQHEWgb0403.jpg",
+                            "description": "粤菜"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/AA/20/rBACYVyLDx-AaW_5AABBQtoi8tI932.jpg",
+                            "description": "鲁菜"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/AA/BE/rBACYVyLh-qATR0pAAAyS1SabNQ452.jpg",
+                            "description": "主食"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/C4/8C/rBACVFzFcr2AYailAAA-qJuJtAU386.jpg",
+                            "description": "日式料理"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/BF/4D/rBACYVy3AfGAGl8GAAAtA8c128E095.jpg",
+                            "description": "本帮菜"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "003",
+        "title": "饮食",
+        "listArr":{
+            "bigImg":"https://bfs.biyao.com/group1/M00/CD/5B/rBACVFzRaCCAeQRjAADM5GQsAts935.jpg",
+            "type":[
+                {
+                    "name":"休食",
+                    "list": [
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/C6/47/rBACYVzFcseARwFgAAAsnSt7BXE336.jpg",
+                            "description": "糕点/小食"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/C6/47/rBACYVzFctKARB4NAAAw_Njc5PA687.jpg",
+                            "description": "巧克力"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/BD/DA/rBACW1y0XLCAHtPeAAAn_fGlYFo706.jpg",
+                            "description": "蜜饯果干"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/C6/44/rBACW1zFctmAcB7lAAA-cFMkWpA365.jpg",
+                            "description": "坚果炒货"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/81/57/rBACYVwa_hyASq5IAAAtf0Frcgs414.jpg",
+                            "description": "肉干肉脯"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/BD/DB/rBACW1y0XgeASAcdAAAvGeGK34o334.jpg",
+                            "description": "腊味"
+                        }
+                    ]
+                },
+                {
+                    "name":"茶饮/冲调",
+                    "list": [
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/89/19/rBACW1wsK9iADo9SAAAVQnaF44Q123.jpg",
+                            "description": "传统滋补"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/8D/BF/rBACVFw-l2aAOlkaAAAq8Ya1ghw950.jpg",
+                            "description": "果汁饮料"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/C6/44/rBACW1zFcuqAWVArAAAUQDKUJno100.jpg",
+                            "description": "茗茶"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/C7/BF/rBACW1zHtZSAEuXkAAAmQVZ9AS4396.jpg",
+                            "description": "花茶/果茶"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "004",
+        "title": "男装",
+        "listArr":{
+            "bigImg":"https://bfs.biyao.com/group1/M00/CF/1A/rBACW1zRbzmAeSuiAAD0W8B6bHc940.jpg",
+            "type":[
+                {
+                    "name":"咖啡",
+                    "list":[
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/5C/5B/rBACW1urbGCAXLFPAAAXC8eXLWU812.jpg",
+                            "description": "咖啡粉"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/A6/E0/rBACVFyHhLeAPxBEAAAWZJ5-sTo971.jpg",
+                            "description": "咖啡豆"
+                        },
+                        {
+                            "img": "https://bfs.biyao.com/group1/M00/C6/FF/rBACYVzGpvuAIZ8pAAAcD7nHWq0875.jpg",
+                            "description": "手冲咖啡"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

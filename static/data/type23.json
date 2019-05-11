@@ -1,0 +1,315 @@
+{
+	"data": {
+		"topicId": "10300148",
+        "subCategory": 
+            {
+			"moreStp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_nava.0_3%22%7D",
+			"categoryName": "咖啡",
+			"categoryId": "621",
+			"threeLevelcategoryList": [
+                {
+				"categoryName": "咖啡粉",
+				"categoryImg": "https://bfs.biyao.com/group1/M00/5C/5B/rBACW1urbGCAXLFPAAAXC8eXLWU812.jpg",
+				"categoryId": "624",
+				"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_nava.0_0%22%7D"
+                },
+                {
+
+				"categoryName": "咖啡豆",
+				"categoryImg": "https://bfs.biyao.com/group1/M00/A6/E0/rBACVFyHhLeAPxBEAAAWZJ5-sTo971.jpg",
+				"categoryId": "623",
+				"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_nava.0_1%22%7D"
+                }, 
+                {
+				"categoryName": "手冲咖啡",
+				"categoryImg": "https://bfs.biyao.com/group1/M00/C6/FF/rBACYVzGpvuAIZ8pAAAcD7nHWq0875.jpg",
+				"categoryId": "714",
+				"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_nava.0_2%22%7D"
+                }
+            ]
+		},
+		"pageIndex": 1,
+		"blockList": [{
+			"feed": true,
+			"dynamic": true,
+			"block": [{
+				"templateType": 14,
+				"data": [{
+					"isShowIcon": "0",
+					"image": "https://bfs.biyao.com/group1/M00/53/6A/rBACVFuOBuiAE5vnAAAw8mbtRHw813.jpg",
+					"priceStr": "68",
+					"priceCent": "6800",
+					"mainTitle": "经典意式咖啡粉非速溶2袋",
+					"routerType": 7,
+					"thirdContent": "493条好评|",
+					"subtitle": "星巴克种植基地制造商直供|可冲约45杯咖啡  1.51元/杯",
+					"routerParams": {
+						"suId": "1302465006000100001",
+						"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_products.0%22%7D"
+					},
+					"id": "1302465006",
+					"labels": [{
+						"color": "#FFFFFF",
+						"roundColor": "#FB4C81",
+						"textColor": "#FB4C81",
+						"content": "一起拼"
+					}]
+				}, {
+					"isShowIcon": "0",
+					"image": "https://bfs.biyao.com/group1/M00/7A/D7/rBACVFwPjFyALHhsAABv40d-rDM986.jpg",
+					"priceStr": "59",
+					"priceCent": "5900",
+					"mainTitle": "ANNY品鉴装袋冲咖啡3袋",
+					"routerType": 7,
+					"thirdContent": "85条好评|",
+					"subtitle": "星巴克种植基地制造商直供|可冲约12杯咖啡 4.92元/杯",
+					"routerParams": {
+						"suId": "1302465011000100001",
+						"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_products.0%22%7D"
+					},
+					"id": "1302465011",
+					"labels": [{
+						"color": "#FFFFFF",
+						"roundColor": "#FB4C81",
+						"textColor": "#FB4C81",
+						"content": "一起拼"
+					}]
+				}],
+				"templateName": "doubleRowList",
+				"dataSize": null,
+				"dynamic": true,
+				"tid": "moses:tid_1",
+				"dataSourceType": "recommend"
+			}, {
+				"templateType": 14,
+				"data": [{
+					"isShowIcon": "0",
+					"image": "https://bfs.biyao.com/group1/M00/5C/01/rBACYVuqDxqAcwdKAAA8A_3BC68519.jpg",
+					"priceStr": "218",
+					"priceCent": "21800",
+					"mainTitle": "ANNY匠心优选袋冲咖啡10袋",
+					"routerType": 7,
+					"thirdContent": "116条好评|",
+					"subtitle": "星巴克种植基地制造商直供|可冲约40杯咖啡  5.45元/杯",
+					"routerParams": {
+						"suId": "1302465001000100001",
+						"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_products.0%22%7D"
+					},
+					"id": "1302465001",
+					"labels": [{
+						"color": "#FFFFFF",
+						"roundColor": "#FB4C81",
+						"textColor": "#FB4C81",
+						"content": "一起拼"
+					}]
+				}, {
+					"isShowIcon": "0",
+					"image": "https://bfs.biyao.com/group1/M00/55/4A/rBACW1uObsOACzhpAAA0QiYBsfk806.jpg",
+					"priceStr": "78",
+					"priceCent": "7800",
+					"mainTitle": "醇香深焙单品咖啡豆2袋",
+					"routerType": 7,
+					"thirdContent": "182条好评|",
+					"subtitle": "星巴克种植基地制造商直供|可冲约45杯咖啡  1.73元/杯",
+					"routerParams": {
+						"suId": "1302465008000100001",
+						"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_products.0%22%7D"
+					},
+					"id": "1302465008",
+					"labels": [{
+						"color": "#FFFFFF",
+						"roundColor": "#FB4C81",
+						"textColor": "#FB4C81",
+						"content": "一起拼"
+					}]
+				}],
+				"templateName": "doubleRowList",
+				"dataSize": null,
+				"dynamic": true,
+				"tid": "moses:tid_1",
+				"dataSourceType": "recommend"
+			}, {
+				"templateType": 14,
+				"data": [{
+					"isShowIcon": "0",
+					"image": "https://bfs.biyao.com/group1/M00/55/1B/rBACYVuOCr6AO6IBAAA2aTquObY023.jpg",
+					"priceStr": "78",
+					"priceCent": "7800",
+					"mainTitle": "意式浓缩拼配咖啡豆2袋",
+					"routerType": 7,
+					"thirdContent": "125条好评|",
+					"subtitle": "星巴克种植基地制造商直供|可冲约45杯咖啡  1.73元/杯",
+					"routerParams": {
+						"suId": "1302465007000100001",
+						"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_products.0%22%7D"
+					},
+					"id": "1302465007",
+					"labels": [{
+						"color": "#FFFFFF",
+						"roundColor": "#FB4C81",
+						"textColor": "#FB4C81",
+						"content": "一起拼"
+					}]
+				}, {
+					"isShowIcon": "0",
+					"image": "https://bfs.biyao.com/group1/M00/51/BB/rBACW1uFbIiAUERlAAA5qDQqJDo556.jpg",
+					"priceStr": "159",
+					"priceCent": "15900",
+					"mainTitle": "ANNY法式深焙袋冲咖啡10袋",
+					"routerType": 7,
+					"thirdContent": "279条好评|",
+					"subtitle": "星巴克种植基地制造商直供|可冲约40杯咖啡  3.975元/杯",
+					"routerParams": {
+						"suId": "1302465000000100001",
+						"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_products.0%22%7D"
+					},
+					"id": "1302465000",
+					"labels": [{
+						"color": "#FFFFFF",
+						"roundColor": "#FB4C81",
+						"textColor": "#FB4C81",
+						"content": "一起拼"
+					}]
+				}],
+				"templateName": "doubleRowList",
+				"dataSize": null,
+				"dynamic": true,
+				"tid": "moses:tid_1",
+				"dataSourceType": "recommend"
+			}, {
+				"templateType": 14,
+				"data": [{
+					"isShowIcon": "0",
+					"image": "https://bfs.biyao.com/group1/M00/6E/D3/rBACVFv09DuAcURHAAA-oj0KnTk113.jpg",
+					"priceStr": "119",
+					"priceCent": "11900",
+					"mainTitle": "云品蓝山风味袋冲咖啡7袋",
+					"routerType": 7,
+					"thirdContent": "37条好评|",
+					"subtitle": "星巴克种植基地制造商直供|可冲约28杯咖啡  4.25元/杯",
+					"routerParams": {
+						"suId": "1302465010000100001",
+						"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_products.0%22%7D"
+					},
+					"id": "1302465010",
+					"labels": [{
+						"color": "#FFFFFF",
+						"roundColor": "#FB4C81",
+						"textColor": "#FB4C81",
+						"content": "一起拼"
+					}]
+				}, {
+					"isShowIcon": "0",
+					"image": "https://bfs.biyao.com/group1/M00/55/49/rBACW1uObOqABJibAAAvQbBG8L4342.jpg",
+					"priceStr": "118",
+					"priceCent": "11800",
+					"mainTitle": "庄园手选蜜处理烘焙豆2袋",
+					"routerType": 7,
+					"thirdContent": "39条好评|",
+					"subtitle": "星巴克种植基地制造商直供|可冲约45杯咖啡  2.62元/杯",
+					"routerParams": {
+						"suId": "1302465009000100001",
+						"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_products.0%22%7D"
+					},
+					"id": "1302465009",
+					"labels": [{
+						"color": "#FFFFFF",
+						"roundColor": "#FB4C81",
+						"textColor": "#FB4C81",
+						"content": "一起拼"
+					}]
+				}],
+				"templateName": "doubleRowList",
+				"dataSize": null,
+				"dynamic": true,
+				"tid": "moses:tid_1",
+				"dataSourceType": "recommend"
+			}, {
+				"templateType": 14,
+				"data": [{
+					"isShowIcon": "0",
+					"image": "https://bfs.biyao.com/group1/M00/7D/81/rBACYVwR8rqAB0pcAAAyo3nuKQ0347.jpg",
+					"priceStr": "145",
+					"priceCent": "14500",
+					"mainTitle": "匠心之选手冲烘焙豆2袋",
+					"routerType": 7,
+					"thirdContent": "45条好评|",
+					"subtitle": "星巴克种植基地制造商直供|可冲约45杯咖啡 3.22元/杯",
+					"routerParams": {
+						"suId": "1302465012000100001",
+						"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_products.0%22%7D"
+					},
+					"id": "1302465012",
+					"labels": [{
+						"color": "#FFFFFF",
+						"roundColor": "#FB4C81",
+						"textColor": "#FB4C81",
+						"content": "一起拼"
+					}]
+				}, {
+					"isShowIcon": "0",
+					"image": "https://bfs.biyao.com/group1/M00/51/BA/rBACW1uFacCAShDcAAA5qDQqJDo607.jpg",
+					"priceStr": "39",
+					"priceCent": "3900",
+					"mainTitle": "ANNY法式深焙袋冲咖啡2袋",
+					"routerType": 7,
+					"thirdContent": "862条好评|",
+					"subtitle": "星巴克种植基地制造商直供|可冲约8杯咖啡  4.875元/杯",
+					"routerParams": {
+						"suId": "1302465003000100001",
+						"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_products.0%22%7D"
+					},
+					"id": "1302465003",
+					"labels": [{
+						"color": "#AB7FD1",
+						"roundColor": "#AB7FD1",
+						"textColor": "#FFFFFF",
+						"content": "精选"
+					}, {
+						"color": "#FFFFFF",
+						"roundColor": "#FB4C81",
+						"textColor": "#FB4C81",
+						"content": "一起拼"
+					}]
+				}],
+				"templateName": "doubleRowList",
+				"dataSize": null,
+				"dynamic": true,
+				"tid": "moses:tid_1",
+				"dataSourceType": "recommend"
+			}, {
+				"templateType": 14,
+				"data": [{
+					"isShowIcon": "0",
+					"image": "https://bfs.biyao.com/group1/M00/C8/19/rBACYVzH_sGAfrzRAAA8joHI5YU396.jpg",
+					"priceStr": "59",
+					"priceCent": "5900",
+					"mainTitle": "手冲杯定制咖啡6杯",
+					"routerType": 7,
+					"thirdContent": "14条好评|",
+					"subtitle": "星巴克种植基地制造商直供|9.9元享受一杯定制手冲咖啡",
+					"routerParams": {
+						"suId": "1302465016010000001",
+						"stp": "%7B%22rpvid%22%3A%22bfd25de0-1557310097194-6c6ce3d223%22%2C%22spm%22%3A%221.500005.home_category_products.0%22%7D"
+					},
+					"id": "1302465016",
+					"labels": []
+				}],
+				"templateName": "doubleRowList",
+				"dataSize": null,
+				"dynamic": true,
+				"tid": "moses:tid_1",
+				"dataSourceType": "recommend"
+			}],
+			"templateInfoNums": null,
+			"bid": "moses:bid_1",
+			"exp": false,
+			"expId": null
+		}],
+		"pid": "moses:pid_1",
+		"pageId": "moses:pid_1",
+		"pageName": ""
+	},
+	"success": 1,
+	"error": null
+}
